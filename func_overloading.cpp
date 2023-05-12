@@ -15,6 +15,6 @@ void bakepizza(std::string topping1){
     std::cout<<"here is your pizza with "<<topping1;
 }
 void bakepizza(std::string topping1,std::string topping2){
-    std::cout<<"here is your topping1 pizza with "<<topping1<<" and "<<topping2;
+    std::cout<<"here is your topping1 pizza with "<<topping1<<" and "<<topping2<<".";
 }
 
